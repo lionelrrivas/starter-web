@@ -16,3 +16,7 @@ Provide simple examples for Git training.
 This is a simple web project. It can be deployed on any web server or local file system.
 
 ## How To Contribute
+
+### Copyright 
+
+lionelrivas.com.
