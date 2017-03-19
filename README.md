@@ -9,6 +9,8 @@ versioning system using a versioned web project.
 
 ## Purpose
 
+Provide simple examples for Git training.
+
 ## Deployment
 
 ## How To Contribute
