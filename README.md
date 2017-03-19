@@ -13,4 +13,6 @@ Provide simple examples for Git training.
 
 ## Deployment
 
+This is a simple web project. It can be deployed on any web server or local file system.
+
 ## How To Contribute
