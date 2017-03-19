@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lionel Rivas lionel@lionelrivas.com @LionelRRivas
 
 # THANKS
 
