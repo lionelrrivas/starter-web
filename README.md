@@ -17,6 +17,8 @@ This is a simple web project. It can be deployed on any web server or local file
 
 ## How To Contribute
 
+Please fork this repository and then issue pull request for review.
+
 ### Copyright 
 
 lionelrivas.com.
