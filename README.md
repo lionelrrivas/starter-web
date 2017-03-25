@@ -22,4 +22,4 @@ Please fork this repository and then issue pull request for review.
 
 ### Copyright 
 
-lionelrivas.com.
+2017 lionelrivas.com. All rights reserved. 
